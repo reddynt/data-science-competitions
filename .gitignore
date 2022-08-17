@@ -2,4 +2,4 @@ data
 .ipynb_checkpoints
 models
 datasets
-blending/results
+blending_results
